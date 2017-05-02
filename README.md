@@ -1,2 +1,2 @@
 # hello-world
-trainin'
+trainin' hard
